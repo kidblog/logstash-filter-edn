@@ -1,0 +1,5 @@
+# Don't store built gems
+*.gem
+
+# Ignore all of the vendor code
+/vendor
