@@ -137,7 +137,7 @@ DEPENDENCIES
   ruby-debug (~> 0.10)
 
 RUBY VERSION
-   ruby 2.3.3p0 (jruby 9.1.15.0)
+   ruby 2.3.3p0 (jruby 9.1.16.0)
 
 BUNDLED WITH
    1.16.1
