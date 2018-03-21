@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
   s.version       = '0.1.0'
   s.licenses      = ['Apache-2.0']
   s.summary       = 'A Logstash filter for EDN data.'
-  s.homepage      = "https://gitlab.kidblog.org/evan/logstash-filter-edn"
+  s.homepage      = "https://github.com/kidblog/logstash-filter-edn"
   s.authors       = ['Evan Niessen-Derry']
   s.email         = 'eniessenderry@gmail.com'
   s.require_paths = ['lib']
